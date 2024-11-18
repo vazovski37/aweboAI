@@ -55,7 +55,6 @@ To use the app:
 ## Future Improvements
 - Add multilingual support for global companies.
 - Include advanced analytics to track usage and performance metrics.
-- 
 
 ---
 
