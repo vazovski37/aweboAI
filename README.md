@@ -31,19 +31,6 @@ To use the app:
 
 ---
 
-### Installation
-1. **Install the App**:  
-   - Visit the app installation link provided by us.  
-   - Click **Add to Slack** and follow the prompts to authorize the app in your Slack workspace.
-
-2. **Assign Permissions**:  
-   - Ensure the app has the necessary permissions to access channels or direct messages where it will interact with users.
-
-3. **Get Started**:  
-   - Open Slack and type `/start-project` in the desired channel or direct message with the app to initiate a conversation.
-
----
-
 ### How It Works
 1. **Start a Conversation**:
    - Users can type `/awebo` to initiate the project coordination process.
